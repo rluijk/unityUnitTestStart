@@ -1,4 +1,4 @@
-# unityUnitTestStart
+# unityUnitTest Starter
 Simple proof of concept of Unit Testing With Unity and C#
 
 Based on the video from Unity3d College
